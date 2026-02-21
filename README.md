@@ -222,4 +222,3 @@ To strengthen security, the project integrates **Splunk** for monitoring AD logs
     ![image.png](image%2024.png)
     
     - type this  because we are using version 3 but crowbar looking for binary at the traditional xfreerdp path, So we create the symbolic link → `sudo ln -s /usr/bin/free /usr/bin/xfreerdp`.
-  ## You can also use metasploitable3 machine to exploiting the eternalblue vulnerability and manageEngine vulnerability.
